@@ -1,3 +1,7 @@
+![alt text](https://github.com/Mergifyio/.github/blob/main/profile/banner.png)
+
+
+
 Hi! 👋
 
 We are Mergify, a SaaS company providing merge automation for software engineering teams. If you are interested in merging automatically your code and using merge queues, check us out.
