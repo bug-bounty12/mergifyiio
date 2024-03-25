@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi! 👋
 
-<!--
-**mergifyiio/mergifyiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are Mergify, a SaaS company providing merge automation for software engineering teams. If you are interested in merging automatically your code and using merge queues, check us out.
 
-Here are some ideas to get you started:
+👩‍ Resources
+If you're curious about how to setup Mergify and how it works, you can read our documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We also regularly publish exciting articles about our technology on our blog.
+
+Feel free to join our amazing Slack community.
+
+🍿 Fun facts
+We merge over 50,000 pull requests every month for our users without them having to lift their finger! 🦾
+
+👩‍💻 Careers
+We are always looking for new talent to join us. Look up our careers page!
